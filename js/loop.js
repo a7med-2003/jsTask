@@ -72,9 +72,9 @@ for (let num = 2; num <= limit; num++) {
   }
 }
 // ############################# 11 #######################
-let number = 5;
+let number6 = 5;
 for (let i = 1; i <= 10; i++) {
-  console.log(`${number} x ${i} = ${number * i}`);
+  console.log(`${number6} x ${i} = ${number6 * i}`);
 }
 // ############################# 12 #######################
 let items = ["a", "b", "c", "d", "e", "f"];
